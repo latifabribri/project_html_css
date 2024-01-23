@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+.carde{
+    width: 20rem;
+    height: 20rem;
+    border: 3px dotted black;
+    background-color: red;
+    
+  
+}
+.carde2{
+    width: 10rem;
+    height: 20rem;
+    background-color: #fd79a8;
+ 
+}
+#allcarde{
+    width: auto;
+    height: auto;
+    border: 2px solid green;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-around;
+}
+p{
+    color: green;
+    width: 7rem;
+}
